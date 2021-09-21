@@ -7,6 +7,11 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <p>
+        <?php 
+            $text = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque consequatur dolorum totam unde ex eaque delectus voluptatem labore, repellendus voluptatum hic quas deleniti sequi omnis ea aliquid aliquam illum numquam!";
+            echo $text;
+        ?>
+    </p>
 </body>
 </html>
